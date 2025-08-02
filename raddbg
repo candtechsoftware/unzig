@@ -1,0 +1,16 @@
+// raddbg 0.9.20 project file
+
+recent_file: path: "src/main.zig"
+target:
+{
+  executable: "zig-out/bin/unzig.exe"
+  working_directory: ""
+  enabled: 1
+}
+breakpoint:
+{
+  source_location: "src/main.zig:6:1"
+  hit_count: 1
+}
+theme: "Default (Dark)"
+theme_color: tags value: 0xffffffff

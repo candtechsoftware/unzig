@@ -1,0 +1,8 @@
+{
+  "key_map": {
+    "<F1>": "zig build",
+    "<F2>": "raddbg ./zig-out/bin/unzig.exe",
+    "<F3>": "zig build run"
+  }
+}
+
